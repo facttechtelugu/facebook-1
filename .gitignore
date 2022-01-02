@@ -5,3 +5,4 @@ facebook/
 /node_modules/
 test.py
 test.txt
+*.txt
